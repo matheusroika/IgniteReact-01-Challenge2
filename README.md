@@ -1,5 +1,5 @@
 # IgniteReact-01-Challenge2
 Desafio 2 do 1º capítulo da trilha de React do Ignite da Rocketseat
 
-### Instruções
+### Objetivo
 Nesse desafio iremos dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.
