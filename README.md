@@ -1,4 +1,4 @@
-# IgniteReact-01-Challenge2
+# Desafio: Componentizando a aplicação
 Desafio 2 do 1º capítulo da trilha de React do Ignite da Rocketseat
 
 ### Objetivo
